@@ -1,0 +1,9 @@
+<svg width="600" height="450" viewBox="0 0 600 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="450" fill="#111827"/>
+  <rect x="60" y="80" width="480" height="290" rx="24" fill="#1F2937"/>
+  <path d="M140 310L240 200L320 270L390 220L460 310H140Z" fill="#374151"/>
+  <circle cx="210" cy="190" r="28" fill="#6B7280"/>
+  <text x="300" y="230" text-anchor="middle" fill="#9CA3AF" font-family="Arial" font-size="22">
+    Gaming Gear
+  </text>
+</svg>
